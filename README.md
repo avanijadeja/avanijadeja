@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Avaniba Jadeja
+### Hi there 👋, My name is Avani Jadeja
 #### Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/D5616AQFBpmiJoqTUMQ/profile-displaybackgroundimage-shrink_350_1400/0/1683332254308?e=1691625600&v=beta&t=ZWZ-iVkMQhZtlrRn8ncdiyEksUcBU6M0TKLrlMJaUx8)
 
