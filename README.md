@@ -22,8 +22,6 @@ I am Avani Jadeja from leander,Texas. Currently I am doing full stack web develo
 - ❓ Ask me about anything related to Frameworks and languages.  
   
   
-- ⚡ Fun fact: I can't quit until I am done 🙂  
-
 <br/>  
 
 
