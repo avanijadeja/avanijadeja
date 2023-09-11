@@ -1,5 +1,4 @@
-### Hi there 👋, My name is Avani Jadeja
-#### Software Engineer
+
 
 ### <div align="center">Hi there 👋, My name is Avani Jadeja, a Software Engineer!</div>
 
