@@ -3,7 +3,6 @@
 ### <div align="center">Hi there 👋, My name is Avaniba Jadeja</div>
 
 I am Software Engineer.Recently I completed full stack web developer course from University of Texas,Austin. I done my master degree in Computer Engineering. I like to work as front end as well as backend developer.I have 6years of teaching experience as a Professor in Engineering College.I really enjoying learn new languages and frameworks.Right now I am doing my all projects in javascript.I am really passionate about to use my skills to develop real world projects.
-
 <br/>
 
 - 👀 Check out my [Portfolio](https://avanijadeja.github.io/react_portfolio/)! 
@@ -13,8 +12,6 @@ I am Software Engineer.Recently I completed full stack web developer course from
 - 🌱 I’m currently learning Redux.
 
 - ❓ Ask me about anything related to MERN stack and related technologies.
-  
-  
 <br/>  
 
 ## My Skill Set
@@ -46,10 +43,6 @@ I am Software Engineer.Recently I completed full stack web developer course from
 <a href="https://www.linkedin.com/in/avaniba-jadeja-5b927a18/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:avani.jadeja@gmail.com" target="_blank" rel="noopener noreferrer"> 
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-
 </div>  
 
 
