@@ -71,5 +71,5 @@ I am Software Engineer.Recently I completed full stack web developer course from
 
 
 <div align="center">
-![Profile views counter](https://komarev.com/ghpvc/?username=avanijadeja&&style=flat-square) 
-</div>
+<img src="https://komarev.com/ghpvc/?username=avanijadeja&&style=flat-square" align="center" />
+</div>  
