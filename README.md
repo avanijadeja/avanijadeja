@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="Avani_github.png" align="center" style="width: 100%" />
+<img src="https://github.com/avanijadeja/avanijadeja/blob/e2428a59dad32f6ce12519347d77493b50a5c26c/Avani_github.png" align="center" style="width: 100%" />
 </div
 
 ### <div align="center">Hi there 👋, My name is Avaniba Jadeja</div>
