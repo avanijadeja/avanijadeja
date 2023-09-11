@@ -1,8 +1,8 @@
 
 
-### <div align="center">Hi there 👋, My name is Avani Jadeja, a Software Engineer!</div>
+### <div align="center">Hi there 👋, My name is Avaniba Jadeja</div>
 
-I am from leander,Texas. Recently I completed full stack web developer course from University of Texas,Austin. I done my master degree in Computer Engineering. I like to work as front end as well as backend developer.I have 6years of teaching experience as a Professor in Engineering College.I really enjoying learn new languages and frameworks.Right now I am doing my all projects in javascript.I am really passionate about to use my skills to develop real world projects.
+I am Software Engineer.Recently I completed full stack web developer course from University of Texas,Austin. I done my master degree in Computer Engineering. I like to work as front end as well as backend developer.I have 6years of teaching experience as a Professor in Engineering College.I really enjoying learn new languages and frameworks.Right now I am doing my all projects in javascript.I am really passionate about to use my skills to develop real world projects.
 
 <br/>
 
