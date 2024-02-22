@@ -12,9 +12,9 @@ I am Software Engineer.Recently I completed full stack web developer course from
 
 - 👀 Check out my [Portfolio](https://avanijadeja.github.io/react_portfolio/)! 
 
-- 🔭 I’m currently working on MERN project.
+- 🔭 I’m currently solving leetcode problems. 
   
-- 🌱 I’m currently learning Redux.
+- 🌱 I’m currently learning Amazon Web Services.
 
 - ❓ Ask me about anything related to MERN stack and related technologies.
 <br/>  
