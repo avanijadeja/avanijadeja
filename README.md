@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/avanijadeja/avanijadeja/blob/097a61ac16ea70e0c05465a7818f002db68df21d/Avani_github.png" align="center" style="width: 100%" />
+<img src="https://github.com/avanijadeja/avanijadeja/blob/097a61ac16ea70e0c05465a7818f002db68df21d/avani_pic.jpeg" align="center" style="width: 100%" />
 </div>
 
 
