@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="avani_pic.jpeg" align="center" style="width: 100%" />
+<img src="profile_pic.jpeg" align="center" style="width: 100%" />
 </div>
 
 
